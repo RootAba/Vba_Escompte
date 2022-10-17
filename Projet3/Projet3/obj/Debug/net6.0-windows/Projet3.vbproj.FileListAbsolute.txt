@@ -1,0 +1,17 @@
+C:\Users\ABASSE\source\repos\Projet3\Projet3\bin\Debug\net6.0-windows\Projet3.exe
+C:\Users\ABASSE\source\repos\Projet3\Projet3\bin\Debug\net6.0-windows\Projet3.deps.json
+C:\Users\ABASSE\source\repos\Projet3\Projet3\bin\Debug\net6.0-windows\Projet3.runtimeconfig.json
+C:\Users\ABASSE\source\repos\Projet3\Projet3\bin\Debug\net6.0-windows\Projet3.dll
+C:\Users\ABASSE\source\repos\Projet3\Projet3\bin\Debug\net6.0-windows\Projet3.pdb
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.vbproj.AssemblyReference.cache
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.Form1.resources
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.vbproj.GenerateResource.cache
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.AssemblyInfoInputs.cache
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.AssemblyInfo.vb
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.vbproj.CoreCompileInputs.cache
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.dll
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\refint\Projet3.dll
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.pdb
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\Projet3.genruntimeconfig.cache
+C:\Users\ABASSE\source\repos\Projet3\Projet3\obj\Debug\net6.0-windows\ref\Projet3.dll
